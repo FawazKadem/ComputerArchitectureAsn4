@@ -1,0 +1,2 @@
+Dependencies for Project 'asn4q1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\q1.s)(0x5AB44D28)(--cpu ARM7TDMI --bi --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\programs\Keil\ARM\RV31\INC-I D:\programs\Keil\ARM\CMSIS\Include--list .\q1.lst --xref -o .\q1.o --depend .\q1.d)
